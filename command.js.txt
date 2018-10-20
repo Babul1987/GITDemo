@@ -1,1 +1,0 @@
-This is new js file for command validation
