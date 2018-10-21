@@ -1,2 +1,3 @@
 This is my chapter js
 This is used to validate chapter
+Chapter.js This is used for git patch demo.
